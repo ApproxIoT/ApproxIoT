@@ -9,31 +9,30 @@ layout: default
 <div class="large-2 large-push" markdown="0" style="display: inline-block;">
         <a href="https://xxx">
             <img class="t0" width="10%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
-            <div style="display: inline-block; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
+            <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
         </a>
 </div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="https://xx">
             <img class="t0" width="10%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
-            <div style="display: inline-block; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
+            <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
-</div>   
+</div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="/ApproxIoT/docs/bib.md">
             <img class="t0" width="10%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
-            <div style="display: inline-block; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
-        </a>   
+            <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
+        </a>
 </div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="https://xx">
             <img class="t0" width="10%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
-            <div style="display: inline-block; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
+            <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
-</div>
-
+  </div>
 </div>
 -------
 <!-- <div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
