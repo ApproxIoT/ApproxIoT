@@ -5,7 +5,40 @@ layout: default
 <!-- <div style="text-align:center;">
   <img class="img-spark-flink" src="/ApproxIoT/images//spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 800px;"/>
 </div> -->
-<div class="row">
+
+<div id="container">
+  <div id="row">
+  <div class="child">
+          <a href="https://xxx">
+              <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+              <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
+          </a>
+  </div>
+    <div class="child">   
+     <a href="https://xx">
+            <img class="t0" width="8%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
+            <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
+        </a></div>
+
+    <div class="child">
+    <img class="t0" width="23%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+    <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
+</a></div>
+    <div class="child">
+    </div>
+
+    <div class="child">
+            <a href="https://xxx">
+                <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+                <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
+            </a>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- <div class="row">
 <div class="large-2 large-push columns" markdown="0" style="display: inline-block;">
         <a href="https://xxx">
             <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
@@ -33,7 +66,7 @@ layout: default
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
   </div>
-</div>
+</div> -->
 -------
 <!-- <div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
         <a href="/slides/Middleware17.pptx">
