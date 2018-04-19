@@ -5,7 +5,7 @@ layout: default
 <!-- <div style="text-align:center;">
   <img class="img-spark-flink" src="/ApproxIoT/images//spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 800px;"/>
 </div> -->
-<div class="row">
+
 <div  markdown="0"; style="display: inline-block;">
         <a href="https://xxx">
             <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
@@ -33,7 +33,7 @@ layout: default
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
   </div>
-</div>
+
 -------
 <!-- <div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
         <a href="/slides/Middleware17.pptx">
