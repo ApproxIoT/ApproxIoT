@@ -66,10 +66,9 @@ layout: default
 </div>  -->
 
 
-<!-- # Introduction
-Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution.
-
-Unfortunately, state-of-the-art systems for approximate computing, such as BlinkDB and ApproxHadoop, are primarily geared towards batch analytics, where the input data remains unchanged during the course of sampling. Thus, these state-of-the-art systems cannot be deployed in the context of stream analytics where new data continuously arrives as an unbounded stream.
+# Introduction
+Approximate computing aims for efficient execution of workflows where an approximate output is sufficient instead of the exact output. Thus, approximate computing based on the chosen sample size — can make a systematic tradeoff between the output accuracy and computation efficiency.
+ApproxIoT is  a stream analytics system to strike a balance between the two desirable but contradictory design requirements, i.e., achieving low latency for real-time analytics, and efficient utilization of computing resources.
 
 <div>
   <img style="text-align:center;" class="img-overivew" src="/images/overview.png" alt="overview" style="height: 120px; weight: 680px;"/>
