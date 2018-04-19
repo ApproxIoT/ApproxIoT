@@ -65,13 +65,13 @@
 <h1 id="introduction">Introduction</h1>
 <p>Approximate computing has recently emerged as a promising computing paradigm which allows making a systematic trade-off between the output accuracy and computation efficiency. Approximate computing is based on the observation that for many practical applications it is acceptable to approximate rather than produce exact output results. The idea behind approximate computing is to compute over a partial subset instead of the entire input data to achieve efficient execution.</p>
 
-<p>Unfortunately, state-of-the-art systems for approximate computing, such as BlinkDB and ApproxHadoop, are primarily geared towards batch analytics, where the input data remains unchanged during the course of sampling. Thus, these state-of-the-art systems cannot be deployed in the context of stream analytics where new data continuously arrives as an unbounded stream.</p> 
+<p>Unfortunately, state-of-the-art systems for approximate computing, such as BlinkDB and ApproxHadoop, are primarily geared towards batch analytics, where the input data remains unchanged during the course of sampling. Thus, these state-of-the-art systems cannot be deployed in the context of stream analytics where new data continuously arrives as an unbounded stream.</p>
 
-<!-- <div>
+<div>
   <img style="height: 120px; weight: 680px;" class="img-overivew" src="/images/overview.png" alt="overview" />
-</div> -->
+</div>
 
-<!-- <p>In this work, we design ApproxIoT, a Spark/Flink-based stream analytics system for approximate computing.  StreamApprox implements an online stratified reservoir sampling algorithm in Spark Streaming to produce approximate output with rigorous error bounds.</p>
+<p>In this work, we design ApproxIoT, a Spark/Flink-based stream analytics system for approximate computing.  StreamApprox implements an online stratified reservoir sampling algorithm in Spark Streaming to produce approximate output with rigorous error bounds.</p>
 
 <h1 id="source-code">Source Code</h1>
 <p>Source code will be available soon.</p>

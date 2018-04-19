@@ -71,15 +71,15 @@ Approximate computing aims for efficient execution of workflows where an approxi
 ApproxIoT is a stream analytics system to strike a balance between the two desirable but contradictory design requirements, i.e., achieving low latency for real-time analytics, and efficient utilization of computing resources.
 
 <div>
-  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 120px; weight: 680px;"/>
+  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 340px; weight: 1200px;"/>
 </div>
 
 
 In this work, we implemented ApproxIoT using Apache Kafka and its library Kafka Streams to achieve a truly distributed data analytics system. An online stratified reservoir sampling algorithm was implemented on both Edge computing nodes and Datacenter cluster.
 
-<!-- # Source Code -->
+# Source Code
 <!-- Source code will be available soon. -->
-<!-- The source code of StreamApprox is available <a href="https://github.com/streamapprox?tab=repositories"> here </a> -->
+The source code of StreamApprox is available <a href="https://approxiot.github.io/ApproxIoT"> here </a>
 <!-- * Cluster deployment <a href="https://github.com/streamapprox/flink-setup"> script </a> -->
 
 <!-- * <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a> -->
