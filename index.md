@@ -71,7 +71,7 @@ Approximate computing aims for efficient execution of workflows where an approxi
 ApproxIoT is  a stream analytics system to strike a balance between the two desirable but contradictory design requirements, i.e., achieving low latency for real-time analytics, and efficient utilization of computing resources.
 
 <div>
-  <img style="text-align:center;" class="img-overivew" src="/images/overview.png" alt="overview" style="height: 120px; weight: 680px;"/>
+  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 120px; weight: 680px;"/>
 </div>
 
 
