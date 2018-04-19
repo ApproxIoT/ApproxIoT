@@ -10,23 +10,25 @@ layout: default
   <div id="row">
   <div class="child" markdown="0">
           <a href="https://xxx">
-              <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+              <img class="t0" width="40%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
               <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
           </a>
   </div>
     <div class="child" markdown="0">   
      <a href="https://xx">
-            <img class="t0" width="8%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
+            <img class="t0" width="40%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
 
   <div class="child" markdown="0">
-    <img class="t0" width="23%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+  <a href="https://xx">
+    <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
     <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
-</a></div>
+  </a></div>
+
     <div class="child" markdown="0">
     <a href="https://xx">
-        <img class="t0" width="12%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
+        <img class="t0" width="40%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
         <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
     </a>
     </div>
