@@ -22,14 +22,14 @@ layout: default
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="/ApproxIoT/docs/bib.md">
-            <img class="t0" width="10%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+            <img class="t0" width="15%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>
 </div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="https://xx">
-            <img class="t0" width="10%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
+            <img class="t0" width="12%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
   </div>
