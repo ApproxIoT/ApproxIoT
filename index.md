@@ -8,21 +8,21 @@ layout: default
 <div class="row">
 <div class="large-2 large-push" markdown="0" style="display: inline-block;">
         <a href="https://xxx">
-            <img class="t0" width="10%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+            <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
         </a>
 </div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="https://xx">
-            <img class="t0" width="10%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
+            <img class="t0" width="8%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
 </div>
 
  <div class="large-2 large-push-2" markdown="0" style="display: inline-block;">
         <a href="/ApproxIoT/docs/bib.md">
-            <img class="t0" width="15%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+            <img class="t0" width="20%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>
 </div>
