@@ -9,28 +9,28 @@ layout: default
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
         <a href="https://xxx">
-            <img class="t0" width="40%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
+            <img class="t0" width="10%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
         </a>
 </div>
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
         <a href="https://xx">
-            <img class="t0" width="40%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
+            <img class="t0" width="10%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
 </div>    
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
         <a href="/ApproxIoT/docs/bib.md">
-            <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
+            <img class="t0" width="10%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>   
 </div>
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
         <a href="https://xx">
-            <img class="t0" width="40%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
+            <img class="t0" width="10%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
 </div>
@@ -71,7 +71,7 @@ Approximate computing aims for efficient execution of workflows where an approxi
 ApproxIoT is a stream analytics system to strike a balance between the two desirable but contradictory design requirements, i.e., achieving low latency for real-time analytics, and efficient utilization of computing resources.
 
 <div>
-  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 340px; weight: 1200px;"/>
+  <img style="text-align:center;" class="img-overivew" src="/ApproxIoT/images/overview.png" alt="overview" style="height: 300px; weight: 1000px;"/>
 </div>
 
 
