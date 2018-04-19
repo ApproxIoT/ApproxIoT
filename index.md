@@ -8,29 +8,29 @@ layout: default
 
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="https://github.com/ApproxIoT/ApproxIoT">
-            <img class="t0" width="40%" src="/images/acm-icon.png" alt="Paper">
+        <a href="https://xxx">
+            <img class="t0" width="40%" src="/ApproxIoT/images/acm-icon.png" alt="Paper">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
         </a>
 </div>
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="https://github.com/ApproxIoT/ApproxIoT">
+        <a href="https://xx">
             <img class="t0" width="40%" src="/images/report-icon.png" alt="Technical report">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
 </div>    
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="/docs/bib.md">
-            <img class="t0" width="40%" src="/images/bibtex-icon.png" alt="Bibtex">
+        <a href="/ApproxIoT/docs/bib.md">
+            <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
         </a>   
 </div>
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
-        <a href="https://github.com/ApproxIoT/ApproxIoT">
-            <img class="t0" width="40%" src="/images/github-icon.png" alt="Source code">
+        <a href="https://xx">
+            <img class="t0" width="40%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
 </div>
