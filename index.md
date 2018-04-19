@@ -20,7 +20,7 @@ layout: default
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
 
-    <div class="child">
+  <div class="child">
     <img class="t0" width="23%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
     <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
 </a></div>
