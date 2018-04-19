@@ -26,13 +26,6 @@ layout: default
 </a></div>
     <div class="child">
     </div>
-
-    <div class="child">
-            <a href="https://xxx">
-                <img class="t0" width="15%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
-                <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
-            </a>
-    </div>
   </div>
 </div>
 

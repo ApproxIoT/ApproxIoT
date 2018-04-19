@@ -605,7 +605,7 @@ Small Device Styles
   padding: 5px 5px 5px 5px; }
 
 #container {
-  /* background-color: red; */
+  background-color: red; 
   overflow: hidden;
   width: 200px;
 }
