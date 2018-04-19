@@ -5,7 +5,7 @@ layout: default
 <!-- <div style="text-align:center;">
   <img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 800px;"/>
 </div> -->
-
+<section id="main_change" class="inner">
 <div class="large-2 large-push-2" markdown="0" style="text-align:center;">
         <a href="https://xxx">
             <img class="t0" width="10%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
@@ -33,7 +33,7 @@ layout: default
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
         </a>
 </div>
-
+</section>
 
 -------
 <!-- <div class="large-2 medium-push-2 columns" style="text-align:center;position:relative;left:29%;right:auto;">
