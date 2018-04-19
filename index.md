@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div style="text-align:center;">
-  <img class="img-spark-flink" src="/images/spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 800px;"/>
+  <img class="img-spark-flink" src="/ApproxIoT/images//spark-flink1.png" alt="spark-flink" style="height: 80px; weight: 800px;"/>
 </div>
 <!-- <div class="row"> -->
 <div class="large-2 large-push" markdown="0" style="display: inline-block;">
