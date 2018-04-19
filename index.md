@@ -16,7 +16,7 @@ layout: default
 
 <div class="large-2 large-push-2 columns" markdown="0" style="text-align:center;">
         <a href="https://xx">
-            <img class="t0" width="40%" src="/images/report-icon.png" alt="Technical report">
+            <img class="t0" width="40%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
             <div style="text-align:center; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a>
 </div>    
