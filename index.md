@@ -15,7 +15,7 @@ layout: default
           </a>
   </div>
     <div class="child" markdown="0">   
-     <a href="https://xx">
+     <a href="https://arxiv.org/abs/1805.05674">
             <img class="t0" width="40%" src="/ApproxIoT/images/report-icon.png" alt="Technical report">
             <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Technical report</div>
         </a></div>
