@@ -1,0 +1,4 @@
+io/confluent/examples/producer/DeleteTopics.class
+io/confluent/examples/producer/writeToKafka.class
+io/confluent/examples/producer/CreateInputStreams.class
+io/confluent/examples/producer/CreatTopics.class

@@ -1,0 +1,5 @@
+io/confluent/examples/consumer/SRSProcessor.class
+io/confluent/examples/consumer/SamplingNode.class
+io/confluent/examples/consumer/SRSSamplingNode.class
+io/confluent/examples/consumer/ResoviorSamplingProcessor.class
+io/confluent/examples/consumer/ResoviorSamplingProcessorNew.class
