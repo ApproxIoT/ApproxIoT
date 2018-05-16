@@ -27,7 +27,7 @@ layout: default
   </a></div>
 
     <div class="child" markdown="0">
-    <a href="https://xx">
+    <a href="https://github.com/ApproxIoT/ApproxIoT/tree/master/code">
         <img class="t0" width="40%" src="/ApproxIoT/images/github-icon.png" alt="Source code">
         <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
     </a>
@@ -110,7 +110,7 @@ In this work, we implemented ApproxIoT using Apache Kafka and its library Kafka 
 
 # Source Code
 <!-- Source code will be available soon. -->
-The source code of StreamApprox is available <a href="https://approxiot.github.io/ApproxIoT"> here </a>
+The source code of ApproxIoT is available <a href="https://github.com/ApproxIoT/ApproxIoT/tree/master/code"> here </a>
 <!-- * Cluster deployment <a href="https://github.com/streamapprox/flink-setup"> script </a> -->
 
 <!-- * <a href="https://github.com/streamapprox/spark"> Spark-based implementation </a> -->
