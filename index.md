@@ -21,7 +21,7 @@ layout: default
         </a></div>
 
   <div class="child" markdown="0">
-  <a href="https://github.com/ApproxIoT/ApproxIoT/tree/master/docs/bib.md">
+  <a href="https://approxiot.github.io/ApproxIoT/docs/bib.md">
     <img class="t0" width="40%" src="/ApproxIoT/images/bibtex-icon.png" alt="Bibtex">
     <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">BibTex</div>
   </a></div>
