@@ -36,7 +36,7 @@ layout: default
     <div class="child" markdown="0">
     <a href="https://approxiot.github.io/ApproxIoT/slides/approxIoT.pptx">
         <img class="t0" width="40%" src="/ApproxIoT/images/ppt.png" alt="Slides">
-        <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Source code</div>
+        <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Slides</div>
     </a>
     </div>
   </div>
