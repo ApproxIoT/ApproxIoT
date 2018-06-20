@@ -9,7 +9,7 @@ layout: default
 <div id="container">
   <div id="row">
   <div class="child" markdown="0">
-          <a href="https://xxx">
+          <a href="https://approxiot.github.io/ApproxIoT/paper/main.pdf">
               <img class="t0" width="40%" src="/ApproxIoT/images/IEEE.png" alt="Paper">
               <div style="text-align:left; margin: 0 0 0 0; font-size: 0.8em;">Paper</div>
           </a>
